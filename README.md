@@ -6,7 +6,7 @@
 
 The AI landscape feels overwhelming. Snowflake's Cortex capabilities are powerful, but how do you actually deliver that power to your Qlik users? 
 
-This repository breaks down the Qlik + Snowflake + Cortex integration into three clear paths: understand the business value, see what's architecturally possible, and learn how to build it yourself. No hype. No hero complex. Just practical guidance to help you become the hero of your own company's AI story.
+This repository breaks down the Qlik + Snowflake + Cortex integration into three clear paths: understand the business value, see what's architecturally possible, and learn how to build it yourself. No hype. Just practical guidance to help you become the hero of your own company's AI story.
 
 ---
 
